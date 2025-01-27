@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Accordion",
+    "description": "Un'area espandibile e comprimibile per mostrare o nascondere contenuti correlati.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-accordion.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/accordion/"
+  },
+  {
+    "name": "Alert",
+    "description": "Un componente per mostrare messaggi importanti con diversi livelli di importanza.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-alert.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/alert/"
+  },
+  {
+    "name": "Badge",
+    "description": "Piccoli elementi visuali utilizzati per evidenziare informazioni o etichette.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-badge.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/badge/"
+  },
+  {
+    "name": "Breadcrumb",
+    "description": "Un indicatore visivo per mostrare la posizione corrente all'interno della gerarchia del sito.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-breadcrumb.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/breadcrumb/"
+  },
+  {
+    "name": "Button",
+    "description": "Un elemento interattivo utilizzato per azioni come inviare dati o attivare eventi.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-button.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/button/"
+  },
+  {
+    "name": "Card",
+    "description": "Un contenitore flessibile per mostrare contenuti, come testo, immagini e link.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-card.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/card/"
+  },
+  {
+    "name": "Chip",
+    "description": "Un elemento compatto per rappresentare input, attributi o azioni.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-chip.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/chip/"
+  },
+  {
+    "name": "Collapse",
+    "description": "Un'area che può essere espansa o compressa per mostrare contenuti aggiuntivi.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-collapse.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/collapse/"
+  },
+  {
+    "name": "Dropdown",
+    "description": "Un menu che consente di selezionare una o più opzioni da un elenco.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-dropdown.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/dropdown/"
+  },
+  {
+    "name": "Form",
+    "description": "Un insieme di campi di input utilizzati per raccogliere dati dagli utenti.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-form.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/form/"
+  },
+  {
+    "name": "Header",
+    "description": "Il componente header per la parte superiore della pagina, con logo e menu di navigazione.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-header.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/header/"
+  },
+  {
+    "name": "Link",
+    "description": "Un elemento interattivo per collegare ad altre pagine o sezioni.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-link.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/link/"
+  },
+  {
+    "name": "List",
+    "description": "Un elenco strutturato per mostrare elementi come voci o informazioni.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-list.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/list/"
+  },
+  {
+    "name": "Modal",
+    "description": "Una finestra che appare sopra la pagina per mostrare contenuti aggiuntivi.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-modal.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/modal/"
+  },
+  {
+    "name": "Navbar",
+    "description": "Un componente di navigazione principale per organizzare i link.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-navbar.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/navbar/"
+  },
+  {
+    "name": "Pagination",
+    "description": "Un componente per navigare tra pagine o sezioni di contenuto.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-pagination.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/pagination/"
+  },
+  {
+    "name": "Table",
+    "description": "Una struttura per mostrare dati organizzati in righe e colonne.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-table.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/table/"
+  },
+  {
+    "name": "Tab",
+    "description": "Un componente per organizzare contenuti in schede.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-tab.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/tab/"
+  },
+  {
+    "name": "Tooltip",
+    "description": "Un piccolo box informativo che appare al passaggio del mouse su un elemento.",
+    "previewImage": "https://designers.italia.it/design-system/assets/preview-tooltip.png",
+    "livePreview": "https://designers.italia.it/design-system/componenti/tooltip/"
+  }
+]
